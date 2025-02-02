@@ -1,6 +1,6 @@
 # 🚀 Codewars Bot
 
-### ⚡ Free challenges to supercharge your developer experience!
+### ⚡ Free challenges to supercharge your developer experience! Try them right [here](https://t.me/codewars_challenges_bot)!
 
 ## 🤖 What is Codewars Bot?
 
